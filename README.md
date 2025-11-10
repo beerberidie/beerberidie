@@ -3,19 +3,22 @@
 > Full-Stack Developer | AI/ML Enthusiast | Manufacturing Tech Specialist
 
 [![GitHub followers](https://img.shields.io/github/followers/beerberidie?label=Follow&style=social)](https://github.com/beerberidie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/garason-griesel-308939256/)
 ![Profile Views](https://komarev.com/ghpvc/?username=beerberidie&color=brightgreen)
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer with expertise in building intelligent automation systems, full-stack applications, and industrial IoT solutions. I specialize in creating production-ready software that solves real-world business problems.
+I'm a passionate developer who loves building intelligent automation systems, full-stack applications, and industrial IoT solutions. My journey has been one of continuous learning and experimentation—each project teaches me something new, and I'm not afraid to try different approaches to find what works best.
+
+I specialize in creating **production-ready software that solves real-world business problems**, from AI-powered trading platforms to manufacturing automation systems.
 
 - 🔭 Currently working on **AI-powered business automation** and **trading systems**
 - 🌱 Learning **advanced ML techniques** and **cloud architecture**
 - 💼 Experienced in **enterprise integration**, **financial systems**, and **manufacturing operations**
 - 🎯 Focused on **clean code**, **scalable architecture**, and **user-centric design**
+- 🧪 Always experimenting with new technologies and approaches
 - 📫 Reach me at: **GDG.server@outlook.com**
 
 ---
@@ -64,41 +67,133 @@ I'm a passionate developer with expertise in building intelligent automation sys
 
 ## 🌟 Featured Projects
 
-### 🏆 [Sage Accounting Agent](https://github.com/beerberidie/Sage_agent)
-AI-powered automation for Sage accounting workflows with OAuth integration
-- **Tech:** Python, FastAPI, OAuth 2.0, Pandas
-- **Highlights:** 80% task automation, enterprise-grade security, real-time sync
-- **Impact:** Saves 10+ hours weekly, 95% error reduction
+### 🎤 [Echo Voice Assistant](https://github.com/beerberidie/Echo)
+**Voice-controlled AI assistant with real-time transcription and natural language processing**
+
+Your personal AI companion that listens, understands, and responds. Echo combines cutting-edge speech recognition with OpenAI's language models to create a seamless voice interaction experience.
+
+- **Tech Stack:** React, TypeScript, OpenAI API, MongoDB, WebSockets, Node.js
+- **Key Features:**
+  - Real-time voice recognition and transcription
+  - Conversation memory and context awareness
+  - AI-powered responses and summaries
+  - Privacy-focused with local processing options
+- **What I Learned:** Building real-time WebSocket communication, managing audio streams in the browser, and creating intuitive voice UX
+
+---
+
+### 💰 [FIN-DASH - Financial Dashboard](https://github.com/beerberidie/FIN-DASH-main)
+**Comprehensive personal finance management with intelligent automation**
+
+A full-featured financial dashboard designed for South African users, with demo mode featuring 600+ realistic transactions. Perfect for portfolio tracking, budget management, and financial insights.
+
+- **Tech Stack:** React, TypeScript, FastAPI, Python, TailwindCSS, Recharts
+- **Key Features:**
+  - Interactive charts and real-time analytics
+  - Budget tracking with 50/30/20 rule
+  - Multi-account management (FNB, Capitec, Standard Bank, Nedbank)
+  - Investment portfolio tracking
+  - Recurring transaction automation
+  - **Built-in Demo Mode** with 6 months of sample data
+- **What I Learned:** Complex state management, data visualization best practices, and building user-friendly financial tools
+
+---
 
 ### 📈 [MT5 Trading Platform](https://github.com/beerberidie/MT5_UI)
-MetaTrader 5 trading platform with AI-powered signal generation
-- **Tech:** Python, FastAPI, React, TypeScript, ML
-- **Highlights:** Real-time analysis, automated risk management, backtesting
-- **Features:** LSTM neural networks, multi-asset support, live dashboard
+**MetaTrader 5 integration with AI-powered signal generation and risk management**
 
-### 🔧 [Laser Operations Manager](https://github.com/beerberidie/full_dxf_laser_buisness)
-Complete business management system for laser cutting operations
-- **Tech:** Python, Flask, React, DXF Processing
-- **Highlights:** DXF parsing, job scheduling, inventory management
-- **Modules:** 6 integrated systems for end-to-end operations
+A sophisticated trading platform that bridges MetaTrader 5 with modern web technologies, featuring AI-driven market analysis and automated trading strategies.
 
-### 🎤 [Echo Voice Assistant](https://github.com/beerberidie/Echo)
-Voice-controlled AI assistant with real-time transcription and NLP
-- **Tech:** React, TypeScript, OpenAI, MongoDB, WebSockets
-- **Highlights:** Real-time voice recognition, conversation memory, AI responses
-- **Features:** Privacy-focused, local processing option
+- **Tech Stack:** Python, FastAPI, React, TypeScript, Machine Learning, MetaTrader5 API
+- **Key Features:**
+  - Real-time market data analysis
+  - LSTM neural networks for price prediction
+  - Automated risk management and position sizing
+  - Backtesting engine with historical data
+  - Multi-asset support (Forex, Stocks, Commodities)
+  - Live trading dashboard with SSE updates
+- **What I Learned:** Financial data processing, ML model integration in production, and building reliable trading systems
 
-### 💰 [Financial Dashboard](https://github.com/beerberidie/FIN-DASH-main)
-Real-time financial dashboard with interactive charts and analytics
-- **Tech:** React, TypeScript, FastAPI, TailwindCSS, Recharts
-- **Highlights:** Portfolio tracking, multi-currency support, data export
-- **UI/UX:** Dark/light mode, responsive design, real-time updates
+---
 
-### 📱 [SnapSlip Receipt Scanner](https://github.com/beerberidie/SnapSlip)
-Mobile receipt scanner with OCR and expense tracking
-- **Tech:** Capacitor, JavaScript, Tesseract OCR, PWA
-- **Highlights:** Native camera integration, offline mode, cloud sync
-- **Platform:** Android, Progressive Web App
+### 🏆 [Sage Accounting Agent](https://github.com/beerberidie/Sage_agent)
+**AI-powered automation for Sage accounting workflows with enterprise OAuth integration**
+
+Intelligent automation agent that streamlines accounting workflows, reducing manual data entry and improving accuracy through AI-powered processing.
+
+- **Tech Stack:** Python, FastAPI, OAuth 2.0, Pandas, Sage API
+- **Key Features:**
+  - Secure OAuth 2.0 authentication with Sage
+  - Automated data synchronization
+  - Intelligent workflow management
+  - Real-time error detection and correction
+- **Impact:** 80% task automation, 10+ hours saved weekly, 95% error reduction
+- **What I Learned:** Enterprise API integration, OAuth flows, and building production-grade automation tools
+
+---
+
+### 📱 [SnapSlip - Receipt Scanner](https://github.com/beerberidie/SnapSlip)
+**Smart receipt tracking PWA with OCR and offline-first architecture**
+
+A mobile-first Progressive Web App that turns your phone into a powerful receipt scanner. Built with Capacitor for native Android capabilities while maintaining web compatibility.
+
+- **Tech Stack:** Capacitor, JavaScript, Tesseract OCR, PWA, IndexedDB
+- **Key Features:**
+  - Native camera integration
+  - Automatic merchant and amount extraction
+  - Offline-first with local storage
+  - Privacy-focused (no cloud uploads)
+  - Works as both web app and Android APK
+- **What I Learned:** Mobile development with Capacitor, OCR implementation, and building offline-first applications
+
+---
+
+### 📝 [WordPress Poster](https://github.com/beerberidie/WordPress_Poster)
+**Automated content generation and publishing with OpenAI integration**
+
+Streamline your content workflow with AI-powered article generation and automated publishing to multiple WordPress sites.
+
+- **Tech Stack:** Python, WordPress REST API, OpenAI API, Multi-site Management
+- **Key Features:**
+  - AI-powered content generation
+  - Multi-site WordPress management
+  - Automated scheduling and publishing
+  - SEO optimization
+  - Image handling and media library integration
+- **What I Learned:** WordPress REST API, content automation strategies, and managing multi-site deployments
+
+---
+
+## 🔧 More Projects
+
+<details>
+<summary><b>Click to explore my other projects</b></summary>
+
+### 🏭 [Laser Operations Manager](https://github.com/beerberidie/full_dxf_laser_buisness)
+Complete business management system for laser cutting operations with DXF processing, job scheduling, and inventory management.
+
+### 🎙️ [QuickTalk](https://github.com/beerberidie/QuickTalk)
+Fast voice-to-text transcription desktop app with offline Whisper model and global hotkey support.
+
+### 📍 [ETA Now](https://github.com/beerberidie/ETA_Now)
+Real-time location tracking and ETA calculation app with Google Maps integration and live updates.
+
+### 📸 [Image Overlay (AR Sign Visualizer)](https://github.com/beerberidie/Image_overlay)
+AR-style laser sign visualizer with camera overlay for real-world placement preview.
+
+### 🤖 [WebScraper AI](https://github.com/beerberidie/WebScraper_AI)
+AI-powered web scraping and article analysis platform with NLP capabilities.
+
+### 🎮 [Papa Solitaire](https://github.com/beerberidie/Papa_Solitaire)
+Classic solitaire card game with smooth drag-and-drop mechanics built in vanilla JavaScript.
+
+### 🏭 [Roller PLC Controller](https://github.com/beerberidie/roller-plc-mvp)
+Industrial PLC controller interface for roller systems with real-time monitoring and WebSocket communication.
+
+### 🌐 [Remote Agent Display](https://github.com/beerberidie/remote-agent-display)
+Interactive 3D visualization of an AI agent architecture system with 24 specialized agents.
+
+</details>
 
 ---
 
@@ -158,28 +253,52 @@ Mobile receipt scanner with OCR and expense tracking
 
 ## 📫 Let's Connect
 
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+I'm always open to discussing new opportunities, collaborations, or just chatting about technology!
+
+- 💼 **LinkedIn:** [Garason Griesel](https://www.linkedin.com/in/garason-griesel-308939256/)
 - 📧 **Email:** GDG.server@outlook.com
 - 🌐 **Portfolio:** [github.com/beerberidie](https://github.com/beerberidie)
-- 💬 **Open to:** Full-time opportunities, contract work, collaboration
+- 💬 **Open to:** Full-time opportunities, contract work, freelance projects, collaboration
+
+**What I'm looking for:**
+- Roles that leverage my full-stack development and AI/ML skills
+- Projects involving business automation, financial systems, or industrial IoT
+- Teams that value clean code, continuous learning, and innovation
+- Opportunities to work with modern tech stacks and solve challenging problems
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Highlights
 
-- ✅ **14 Production-Ready Projects** - Full-stack applications with real-world use cases
-- ✅ **Multi-Domain Expertise** - Finance, manufacturing, AI, mobile, IoT
-- ✅ **Clean Code Advocate** - Emphasis on maintainability and best practices
-- ✅ **Continuous Learner** - Always exploring new technologies and methodologies
+- ✅ **15 Production-Ready Projects** - Full-stack applications solving real-world problems
+- ✅ **Multi-Domain Expertise** - Finance, manufacturing, AI, mobile, IoT, enterprise integration
+- ✅ **Clean Code Advocate** - Emphasis on maintainability, documentation, and best practices
+- ✅ **Continuous Learner** - Always experimenting with new technologies and approaches
+- ✅ **Recent Updates** - Polished all repositories with comprehensive READMEs, documentation, and licensing
 
 ---
 
 ## 📈 Current Focus
 
-- 🔬 Exploring **advanced ML architectures** (Transformers, LLMs)
-- ☁️ Learning **cloud deployment** (AWS, Azure, GCP)
-- 🎨 Improving **UI/UX design** skills
-- 🤝 Contributing to **open-source projects**
+- 🔬 Exploring **advanced ML architectures** (Transformers, LLMs, and agentic AI)
+- ☁️ Learning **cloud deployment** and **DevOps** (AWS, Azure, Docker, CI/CD)
+- 🎨 Improving **UI/UX design** skills and modern frontend patterns
+- 🤝 Building projects that **showcase practical skills** for potential employers
+- 🚀 Preparing projects for **live deployment** and demo environments
+
+---
+
+## 🎯 Recent Updates (November 2024)
+
+I've recently completed a comprehensive update of all my repositories to make them more professional and accessible:
+
+- ✨ **Enhanced Documentation** - Every project now has detailed READMEs with features, installation guides, and usage examples
+- 📝 **Consistent Licensing** - Added proper open-source licenses to all projects
+- 🎨 **Improved Presentation** - Better project descriptions, badges, and visual elements
+- 🔧 **Code Quality** - Refactored code, added comments, and improved structure
+- 📚 **Better Organization** - Cleaned up file structures and added comprehensive documentation
+
+**Why the variety?** You'll notice my projects use different approaches and structures—this is intentional! Each project was an opportunity to learn and experiment with new technologies, patterns, and best practices. This hands-on experimentation has given me a broad understanding of what works in different contexts.
 
 ---
 
@@ -190,6 +309,10 @@ Mobile receipt scanner with OCR and expense tracking
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 **Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate!** 🚀
+
+---
+
+*Profile last updated: November 2024*
 
 </div>
 
