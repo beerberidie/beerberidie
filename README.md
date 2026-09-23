@@ -14,9 +14,9 @@ Before freelancing I spent 4 years supporting payments infrastructure at Mercant
 | [scratchv3-content-pipeline](https://github.com/beerberidie/scratchv3-content-pipeline) | FastAPI automation pipeline: AI content generation, Redis-locked scheduler, WordPress REST publishing as drafts, encrypted API-key storage, 89 tests |
 | [MT5_UI](https://github.com/beerberidie/MT5_UI) | FastAPI + Celery workstation for MetaTrader 5: rule-based trade ideas that need human approval, config-driven risk limits, 151 tests |
 
-## Private client work (walkthroughs on request)
-- **Security retrofit of a live Supabase app.** Closed anonymous access to password hashes and an API key, moved every write behind a verified server proxy, and staged it through reversible migrations, including recovering from a same-day incident.
-- **Delivery scheduler for OutaAfrica** with driver permissions enforced by Row-Level Security and a locked-down RPC.
+## Other production systems (walkthroughs on request)
+- **Security retrofit of a live Supabase job board.** Closed anonymous access to password hashes and an API key, moved every write behind a verified server proxy, and staged it through reversible migrations, including recovering from a same-day incident.
+- **Delivery scheduler** with driver permissions enforced by Row-Level Security and a locked-down RPC: the driver can change a job's status and nothing else.
 - **PDF report extraction** into de-duplicated database rows and Excel (SHA-256 content fingerprinting).
 
 ## Stack
